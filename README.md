@@ -25,6 +25,7 @@
 ![A0583A3498C5D0B2EDB639976225D39C](https://github.com/issuimo/PhasmophobiaCheat/assets/102911714/10fb3d10-ce9e-4b16-b93b-1e70b0841626)
 
 
+
 ## 功能 (Function)
 - #### 玩家 (Player)
 - [X] 玩家列表 (Player List)
